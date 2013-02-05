@@ -4,6 +4,7 @@
  * Return the JPEG data for a given thumbnail image.
  *
  * @author Justin Filip <jfilip@gmail.com>
+ * @copyright 2008 Justin Filip - http://jfilip.ca/
  * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
